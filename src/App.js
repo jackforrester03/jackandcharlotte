@@ -1,5 +1,5 @@
 import { Divider, Grid, Typography } from "@material-ui/core";
-import { formatMs, makeStyles } from "@material-ui/core/styles";
+import { makeStyles } from "@material-ui/core/styles";
 import ImageGallery from "./ImageGallery";
 import { YearsData } from "./Data";
 import FinalPiece from "./FinalPiece";
