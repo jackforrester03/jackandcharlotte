@@ -15,7 +15,7 @@ const FinalPiece = () => {
   const classes = useStyles();
   return (
     <>
-      <div className={classes.main}>
+      {/* <div className={classes.main}>
         <Typography variant="h4" align="center">
           These past 6 years have been the best of my life....by miles
         </Typography>
@@ -39,8 +39,16 @@ const FinalPiece = () => {
           And so there is something I've been meaning to ask you for a while
           now...
         </Typography>
-      </div>
+      </div> */}
       <Divider className={classes.divider} variant="fullWidth" />
+      <div className={classes.main}>
+        <Typography variant="h4" align="center">
+          Will you marry me?
+        </Typography>
+        <Typography variant="h4" align="center">
+          💍
+        </Typography>
+      </div>
     </>
   );
 };
