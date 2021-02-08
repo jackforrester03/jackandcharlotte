@@ -207,45 +207,45 @@ export const YearsData = [
     ],
   },
   // Aside
-  // {
-  //   year: "Short Aside",
-  //   data: <p>Whilst creating this, I found some beautiful pictures of us</p>,
-  //   images: [
-  //     {
-  //       vid: "imgs/pittyPic1.mp4",
-  //     },
-  //     {
-  //       img: "imgs/pittyPic2.jpeg",
-  //     },
-  //     {
-  //       img: "imgs/pittyPic3.jpeg",
-  //     },
-  //     {
-  //       img: "imgs/pittyPic4.jpeg",
-  //     },
-  //     {
-  //       img: "imgs/pittyPic5.jpeg",
-  //     },
-  //     {
-  //       img: "imgs/pittyPic6.jpeg",
-  //     },
-  //     {
-  //       img: "imgs/pittyPic7.jpeg",
-  //     },
-  //     {
-  //       img: "imgs/pittyPic10.jpeg",
-  //     },
-  //     {
-  //       img: "imgs/pittyPic11.jpeg",
-  //     },
-  //     {
-  //       img: "imgs/pittyPic9.jpeg",
-  //     },
-  //     {
-  //       img: "imgs/pittyPic8.jpeg",
-  //     },
-  //   ],
-  // },
+  {
+    year: "Short Aside",
+    data: <p>Whilst creating this, I found some beautiful pictures of us</p>,
+    images: [
+      {
+        vid: "imgs/pittyPic1.mp4",
+      },
+      {
+        img: "imgs/pittyPic2.jpeg",
+      },
+      {
+        img: "imgs/pittyPic3.jpeg",
+      },
+      {
+        img: "imgs/pittyPic4.jpeg",
+      },
+      {
+        img: "imgs/pittyPic5.jpeg",
+      },
+      {
+        img: "imgs/pittyPic6.jpeg",
+      },
+      {
+        img: "imgs/pittyPic7.jpeg",
+      },
+      {
+        img: "imgs/pittyPic10.jpeg",
+      },
+      {
+        img: "imgs/pittyPic11.jpeg",
+      },
+      {
+        img: "imgs/pittyPic9.jpeg",
+      },
+      {
+        img: "imgs/pittyPic8.jpeg",
+      },
+    ],
+  },
   // 2016
   {
     year: "2016",
