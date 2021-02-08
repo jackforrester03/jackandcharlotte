@@ -52,12 +52,11 @@ export const YearsData = [
         ),
         desc: (
           <p>
-            After 2 months of akward texts, lots of pizza dates (i.e. hiding in
-            our rooms, eating pizza and watching films, whilst keeping soically
-            distanced), I asked you to be my girlfriend.
+            After 2 months of awkward texts, lots of pizza dates, I asked you to
+            be my girlfriend.
             <br />
             <br />
-            Fortunatly you said yes!
+            Fortunately you said yes!
           </p>
         ),
       },
@@ -75,8 +74,8 @@ export const YearsData = [
         ),
         desc: (
           <p>
-            Our first Valentines Day together and first time I had cooked anyone
-            food (spolier alert, my flatmates did most of the cooking).
+            Our first Valentines day together and first time I had cooked
+            anybody food (spolier alert, my flatmates did most of the cooking).
           </p>
         ),
       },
@@ -268,7 +267,7 @@ export const YearsData = [
             July 18<sup>th</sup>
           </p>
         ),
-        desc: <p>😍 Proud Jacky</p>,
+        desc: <p>😍</p>,
       },
       {
         img: "imgs/grad2.jpeg",

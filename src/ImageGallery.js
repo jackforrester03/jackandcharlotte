@@ -18,7 +18,7 @@ const ImageGallery = (props) => {
     console.log(vid);
     if (vid !== undefined) {
       return (
-        <video className={classes.img} controls preload="auto" playsinline>
+        <video className={classes.img} controls preload="on" playsinline>
           <source src={vid} />
         </video>
       );
