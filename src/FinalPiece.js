@@ -41,6 +41,8 @@ const FinalPiece = () => {
         </Typography>
       </div> */}
       <Divider className={classes.divider} variant="fullWidth" />
+      <div className={classes.main}></div>
+      <Divider className={classes.divider} variant="fullWidth" />
       <div className={classes.main}>
         <Typography variant="h4" align="center">
           Will you marry me?
